@@ -1,0 +1,19 @@
+.transactionHistory {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 30px;
+}
+.tableHead {
+  background-color: #529595;
+}
+.tableHeadRow,
+.tableRow td {
+  padding: 30px 80px 30px 80px;
+  border: 1px solid #d4d3d3;
+  color: #555353;
+}
+.tableRow:nth-child(2n + 1) {
+  background-color: #ded6d6;
+}
+.tableHeadRow {
+  color: #ffffff;
+}
